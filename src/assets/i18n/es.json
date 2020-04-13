@@ -1,0 +1,8 @@
+{
+	"HOME": {
+		"select": "Seleccionar idioma {{name}}",
+		"test": "Esta es la prueba",
+		"text": " Esta demostración se ha realizado con ngx translate",
+		"title": "Hola {{name}}! Angular con ngx traducir"
+	}
+}
